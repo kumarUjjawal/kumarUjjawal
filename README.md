@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar Ujjawal
-- 🌱 I’m currently learning backend development with Python and Django and trying to add new features in my local version of cPython compiler.
+- 🌱 I’m currently a Machine Learning Engineer. I'm also learning and tyring to build cool stuffs with Rust programming language.
 - 📫 How to reach me ujjawalpathak6@gmail.com
 
 <!---
