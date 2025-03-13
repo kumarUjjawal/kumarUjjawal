@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Kumar Ujjawal
-- 🌱 I’m currently a Machine Learning Engineer. I'm also learning and tyring to build cool stuffs with Rust programming language.
-- 📫 How to reach me ujjawalpathak6@gmail.com
+# 👋 Hi, I'm Kumar Ujjawal  
+
+💻 **Software Engineer** | 🚀 Exploring **NextJS**  
+
+- 🔍 Passionate about **AI, mobile development, and backend systems**  
+- 🌱 Currently learning and building cool stuff with **NextJS**  
+- 🛠️ Skilled in:  
+  - **Frontend:** React Native, Next.js, TypeScript  
+  - **Backend:** GraphQL, PostgreSQL, Go, Microservices  
+  - **AI/ML:** Computer Vision, Model Deployment  
+- 📫 Reach me at **ujjawalpathak6@gmail.com**  
+
+Let's build something amazing together! 🚀  
+
 
 <!---
 kumarUjjawal/kumarUjjawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
