@@ -2,7 +2,7 @@
 
 💻 **Software Engineer** | 🚀 Exploring **NextJS**  
 
-- 🔍 Passionate about **AI, mobile development, and backend systems**  
+- 🔍 Passionate about **All things Software**  
 - 🌱 Currently learning and building cool stuff with **NextJS**  
 - 🛠️ Skilled in:  
   - **Frontend:** React Native, Next.js, TypeScript  
