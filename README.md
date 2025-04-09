@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar Ujjawal  
 
-💻 **Software Engineer** | 🚀 Exploring **NextJS**  
+💻 **Software Engineer** | 🚀 Exploring **RUST**  
 
 - 🔍 Passionate about **All things Software**  
 - 🌱 Currently learning and building cool stuff with **NextJS**  
