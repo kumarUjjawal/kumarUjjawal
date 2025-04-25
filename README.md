@@ -3,10 +3,10 @@
 💻 **Software Engineer** | 🚀 Exploring **RUST**  
 
 - 🔍 Passionate about **All things Software**  
-- 🌱 Currently learning and building cool stuff with **NextJS**  
+- 🌱 Currently learning and building cool stuff with **React, React Native and occasionally Rust**  
 - 🛠️ Skilled in:  
   - **Frontend:** React Native, Next.js, TypeScript  
-  - **Backend:** GraphQL, PostgreSQL, Go, Microservices  
+  - **Backend:** GraphQL, PostgreSQL, Rust, Microservices  
   - **AI/ML:** Computer Vision, Model Deployment  
 - 📫 Reach me at **ujjawalpathak6@gmail.com**  
 
