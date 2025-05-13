@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Kumar Ujjawal  
 
-💻 **Software Engineer** | 🚀 Exploring **RUST**  
+💻 **Software Engineer** 
 
 - 🔍 Passionate about **All things Software**  
-- 🌱 Currently learning and building cool stuff with **React, React Native and occasionally Rust**  
+- 🌱 Currently learning and building cool stuff with **ReactJS, NextJS, NodeJS and occasionally Rust**  
 - 🛠️ Skilled in:  
-  - **Frontend:** React Native, Next.js, TypeScript  
-  - **Backend:** GraphQL, PostgreSQL, Rust, Microservices  
+  - **Frontend:** ReactJS, NextJS, React Native
+  - **Backend:** NodeJS, GraphQL, PostgreSQL, Rust, Microservices  
   - **AI/ML:** Computer Vision, Model Deployment  
 - 📫 Reach me at **ujjawalpathak6@gmail.com**  
 
