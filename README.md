@@ -2,7 +2,7 @@
 
 💻 **Software Engineer** 
 
-- 📫 Reach me at **ujjawalpathak6@gmail.com**   
+- Currently contributing to Rust projects.   
 
 
 <!---
