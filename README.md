@@ -1,6 +1,6 @@
 ## Hi, I'm Kumar Ujjawal  
 
-** Senior Software Engineer** 
+**Senior Software Engineer** 
 
 **Projects I have contributed to**:
 -    
