@@ -1,6 +1,6 @@
-# Hi, I'm Kumar Ujjawal  
+## Hi, I'm Kumar Ujjawal  
 
-💻 **Software Engineer** 
+** Senior Software Engineer** 
 
 **Projects I have contributed to**:
 -    
