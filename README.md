@@ -5,6 +5,7 @@
 **Projects I have contributed to**:
 -    
 - [Apache/datafusion](https://github.com/apache/datafusion/pulls?q=is%3Amerged+is%3Apr+author%3AkumarUjjawal+)
+- [TursoDB](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+is%3Amerged+author%3AkumarUjjawal+)
 - [Meilisearch](https://github.com/meilisearch/meilisearch-rust/pulls?q=is%3Apr+is%3Amerged+author%3AkumarUjjawal)
 - [Rust](https://github.com/rust-lang/rust/pulls?q=is%3Apr+is%3Amerged+author%3AkumarUjjawal)
 - [Cot](https://github.com/cot-rs/cot/pulls?q=is%3Apr+is%3Amerged+author%3AkumarUjjawal+)
